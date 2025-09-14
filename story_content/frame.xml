@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="draft 0914" />
+              <option name="title_text" value="Yiwen Sun - Storyline Project" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1476,13 +1476,13 @@
       <string id="acc_modern_video_volume">视频音量</string>
       <string id="closed_captions">字幕</string>
       <string id="comma_key">逗号</string>
-      <string id="continueresponsive">继续</string>
+      <string id="continueresponsive">Resume</string>
       <string id="next">下一页</string>
       <string id="prev">上一个</string>
       <string id="submit">提交</string>
       <string id="playback_speed_title">播放速度</string>
       <string id="playback_speed_normal">正常的</string>
-      <string id="continue">继续</string>
+      <string id="continue">Resume</string>
       <string id="glossary">词汇表</string>
       <string id="terms">条款</string>
       <string id="action">操作</string>
@@ -1568,7 +1568,7 @@
       <string id="print_prompt_message">请在以下字段输入您的名字:</string>
       <string id="timer_prompt_button">确定</string>
       <string id="timer_prompt_title">超出时间限制</string>
-      <string id="timer_prompt_message">已经到达了该测验所设定的时间限制。按“确定”继续。</string>
+      <string id="timer_prompt_message">已经到达了该测验所设定的时间限制。按“确定”Resume。</string>
     </string_table>
   </string_tables>
   <fonts>
